@@ -1,9 +1,12 @@
 # lwc-navigation Example
 
 
-**Clone the repo and get started with the following commands**
+**Clone the repo and get Started with following commands**
 
     npm install
     npm run watch
 
-Enjoy the demo!
+Open browser and navigate at [http://0.0.0.0:3001/](http://0.0.0.0:3001/) to see its working.
+
+Check out the [blogpost](https://www.linkedin.com/pulse/navigation-open-source-lwc-prashant-kumar-/) for better understnding of this!
+
